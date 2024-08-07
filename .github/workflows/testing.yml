@@ -5,5 +5,5 @@ on:
 
 jobs:
   testing:
-    uses: kpking1902/called/blob/main/.github/workflows/testing.yml
+    uses: kpking1902/called/blob/main/.github/workflows/testing.yml@main
     
